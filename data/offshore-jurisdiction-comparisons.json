@@ -1,0 +1,1774 @@
+{
+ "name": "offshore-jurisdiction-comparisons",
+ "title": {
+  "en": "Offshore jurisdiction comparisons: 10 head-to-head tables",
+  "ru": "Сравнение оффшорных юрисдикций: 10 парных таблиц",
+  "uk": "Порівняння офшорних юрисдикцій: 10 парних таблиць"
+ },
+ "description": {
+  "en": "Open dataset: BVI, Belize, Seychelles, Cayman, Panama, Nevis, Delaware, Wyoming, UK, US, Estonia, Cyprus, Hong Kong, Singapore and UAE compared pair by pair. JSON and CSV in English, Russian and Ukrainian.",
+  "ru": "Открытые данные: БВО, Белиз, Сейшелы, Кайманы, Панама, Невис, Делавэр, Вайоминг, Англия, США, Эстония, Кипр, Гонконг, Сингапур и ОАЭ в парных сравнениях. JSON и CSV на трёх языках.",
+  "uk": "Відкриті дані: БВО, Беліз, Сейшели, Кайманові острови, Панама, Невіс, Делавер, Вайомінг, Англія, США, Естонія, Кіпр, Гонконг, Сінгапур і ОАЕ в парних порівняннях. JSON і CSV трьома мовами."
+ },
+ "as_of": "2026-11-07",
+ "license": "CC-BY-4.0",
+ "source": "https://offshora.com/",
+ "languages": [
+  "en",
+  "ru",
+  "uk"
+ ],
+ "blocks": [
+  {
+   "id": "bvi-vs-belize",
+   "kind": "table",
+   "source": "comparisons/bvi-vs-belize",
+   "codes": [
+    "VG",
+    "BZ"
+   ],
+   "title": {
+    "en": "BVI vs Belize: Offshore Companies for Holdings and Assets",
+    "ru": "БВО или Белиз: сравнение оффшоров для холдинга и активов",
+    "uk": "БВО чи Беліз: порівняння офшорів для холдингу та активів"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/bvi-vs-belize/",
+    "ru": "https://offshora.com/ru/comparisons/bvi-vs-belize/",
+    "uk": "https://offshora.com/uk/comparisons/bvi-vs-belize/"
+   },
+   "header": {
+    "en": [
+     "Parameter",
+     "BVI",
+     "Belize"
+    ],
+    "ru": [
+     "Параметр",
+     "БВО",
+     "Белиз"
+    ],
+    "uk": [
+     "Параметр",
+     "БВО",
+     "Беліз"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "Law",
+      "BVI Business Companies Act",
+      "Belize Companies Act 2022 (No. 11 of 2022), which replaced the IBC Act"
+     ],
+     [
+      "Registry",
+      "Registry of Corporate Affairs",
+      "Belize Companies and Corporate Affairs Registry (BCCAR), OBRS system"
+     ],
+     [
+      "Agent",
+      "mandatory, licensed by the BVI FSC; only the agent files documents",
+      "mandatory for a company with foreign shareholders or directors, licensed by the Belize FSC (section 80)"
+     ],
+     [
+      "Beneficial owners",
+      "information filed with the registry through VIRRGIN since January 2, 2025",
+      "kept at the registered office, with copies held by the agent (section 87)"
+     ],
+     [
+      "Registers of directors and members",
+      "filed through VIRRGIN",
+      "copies filed with the Registrar (section 93)"
+     ],
+     [
+      "Financial information",
+      "annual financial return to the agent within 9 months after the year end (section 98A)",
+      "records showing the financial position, kept for 5 years (section 88)"
+     ],
+     [
+      "Every year",
+      "return to the agent, registry fees, agent services",
+      "annual return in OBRS, registry fees, agent services"
+     ],
+     [
+      "EU list of October 9, 2026",
+      "not on the list; in Annex II with a commitment due by February 15, 2027",
+      "not on the list"
+     ]
+    ],
+    "ru": [
+     [
+      "Закон",
+      "BVI Business Companies Act",
+      "Belize Companies Act 2022 (№ 11 от 2022 года), заменил IBC Act"
+     ],
+     [
+      "Реестр",
+      "Registry of Corporate Affairs",
+      "Belize Companies and Corporate Affairs Registry (BCCAR), система OBRS"
+     ],
+     [
+      "Агент",
+      "обязателен, лицензия BVI FSC; подаёт документы только агент",
+      "обязателен для компании с иностранными акционерами или директорами, лицензия FSC Белиза (статья 80)"
+     ],
+     [
+      "Бенефициары",
+      "сведения подаются в реестр через VIRRGIN с 2 января 2025 года",
+      "хранятся в зарегистрированном офисе, копии — у агента (статья 87)"
+     ],
+     [
+      "Реестры директоров и участников",
+      "подаются через VIRRGIN",
+      "копии подаются регистратору (статья 93)"
+     ],
+     [
+      "Финансовая информация",
+      "годовой финансовый отчёт агенту в течение 9 месяцев после конца года (раздел 98A)",
+      "записи, которые показывают финансовое положение; хранятся 5 лет (статья 88)"
+     ],
+     [
+      "Ежегодно",
+      "отчёт агенту, сборы реестра, услуги агента",
+      "annual return в OBRS, сборы реестра, услуги агента"
+     ],
+     [
+      "Список ЕС от 9 октября 2026 года",
+      "в списке нет; в приложении II с обязательством до 15.02.2027",
+      "в списке нет"
+     ]
+    ],
+    "uk": [
+     [
+      "Закон",
+      "BVI Business Companies Act",
+      "Belize Companies Act 2022 (№ 11 від 2022 року), замінив IBC Act"
+     ],
+     [
+      "Реєстр",
+      "Registry of Corporate Affairs",
+      "Belize Companies and Corporate Affairs Registry (BCCAR), система OBRS"
+     ],
+     [
+      "Агент",
+      "обов’язковий, ліцензія BVI FSC; документи подає лише агент",
+      "обов’язковий для компанії з іноземними акціонерами або директорами, ліцензія FSC Белізу (стаття 80)"
+     ],
+     [
+      "Бенефіціари",
+      "відомості подаються до реєстру через VIRRGIN з 2 січня 2025 року",
+      "зберігаються в зареєстрованому офісі, копії — в агента (стаття 87)"
+     ],
+     [
+      "Реєстри директорів і учасників",
+      "подаються через VIRRGIN",
+      "копії подаються реєстратору (стаття 93)"
+     ],
+     [
+      "Фінансова інформація",
+      "річний фінансовий звіт агенту протягом 9 місяців після закінчення року (розділ 98A)",
+      "записи, що показують фінансовий стан; зберігаються 5 років (стаття 88)"
+     ],
+     [
+      "Щороку",
+      "звіт агенту, збори реєстру, послуги агента",
+      "annual return в OBRS, збори реєстру, послуги агента"
+     ],
+     [
+      "Перелік ЄС від 9 жовтня 2026 року",
+      "у переліку немає; у додатку II із зобов’язанням до 15.02.2027",
+      "у переліку немає"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "BVI vs Belize: company laws, registered agent, beneficial owners, annual return and accounting, the EU list and banking. Two offshore jurisdictions compared.",
+    "ru": "БВО или Белиз: законы о компаниях, агент, бенефициары, годовой отчёт и бухгалтерия, список ЕС и банк. Сравнение двух оффшоров по проверенным правилам.",
+    "uk": "БВО чи Беліз: закони про компанії, агент, бенефіціари, річний звіт і бухгалтерія, перелік ЄС і банк. Порівняння двох офшорів за перевіреними правилами."
+   },
+   "choose": {
+    "en": [
+     "A holding company, a joint venture, an SPV for a deal: see BVI offshore company.",
+     "Holding an asset, projects with partners from the region, a confirmed bank: see Belize offshore company.",
+     "A holding company for operating companies in different countries: see the comparison in the article on the international holding company."
+    ],
+    "ru": [
+     "Холдинг, совместный проект, SPV под сделку — смотрите оффшор на БВО.",
+     "Владение активом, проекты с партнёрами из региона, подтверждённый банк — смотрите оффшор в Белизе.",
+     "Холдинг для операционных компаний в разных странах — сравнение в материале о международном холдинге."
+    ],
+    "uk": [
+     "Холдинг, спільний проєкт, SPV під угоду — дивіться офшор на БВО.",
+     "Володіння активом, проєкти з партнерами з регіону, підтверджений банк — дивіться офшор у Белізі.",
+     "Холдинг для операційних компаній у різних країнах — порівняння в матеріалі про міжнародний холдинг."
+    ]
+   },
+   "choose_title": {
+    "en": "When to choose which",
+    "ru": "Когда что выбирать",
+    "uk": "Коли що обирати"
+   }
+  },
+  {
+   "id": "bvi-vs-seychelles",
+   "kind": "table",
+   "source": "comparisons/bvi-vs-seychelles",
+   "codes": [
+    "VG",
+    "SC"
+   ],
+   "title": {
+    "en": "BVI vs Seychelles: Which Offshore Jurisdiction to Choose for a Holding Company in 2026",
+    "ru": "БВО или Сейшелы: какой оффшор выбрать для холдинга в 2026 году",
+    "uk": "БВО чи Сейшели: який офшор обрати для холдингу у 2026 році"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/bvi-vs-seychelles/",
+    "ru": "https://offshora.com/ru/comparisons/bvi-vs-seychelles/",
+    "uk": "https://offshora.com/uk/comparisons/bvi-vs-seychelles/"
+   },
+   "header": {
+    "en": [
+     "Parameter",
+     "BVI",
+     "Seychelles"
+    ],
+    "ru": [
+     "Параметр",
+     "БВО",
+     "Сейшелы"
+    ],
+    "uk": [
+     "Параметр",
+     "БВО",
+     "Сейшели"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "Legal form",
+      "BVI Business Company under the BVI Business Companies Act",
+      "International Business Company under the International Business Companies Act, 2016"
+     ],
+     [
+      "Registrar and supervisor",
+      "Registry of Corporate Affairs, BVI Financial Services Commission",
+      "Financial Services Authority (FSA) Seychelles"
+     ],
+     [
+      "Who files documents",
+      "only a licensed registered agent",
+      "a licensed registered agent"
+     ],
+     [
+      "Beneficial owners",
+      "since January 2, 2025, information is filed with the registry through the VIRRGIN system",
+      "register of beneficial owners kept by the company and a database under the Beneficial Ownership Act, 2020; threshold of 10%"
+     ],
+     [
+      "Annual financial information",
+      "annual financial return to the agent within 9 months after year-end (section 98A)",
+      "accounting records are kept at the registered agent's office in Seychelles"
+     ],
+     [
+      "Link with the tax authority",
+      "companies that file a return and financial statements with the BVI Inland Revenue are exempt from the annual return to the agent",
+      "a business tax return is required if there is Seychelles-source income"
+     ],
+     [
+      "EU list of October 9, 2026",
+      "not on the list; in Annex II with a commitment on the Global Forum review by February 15, 2027",
+      "not on the list"
+     ]
+    ],
+    "ru": [
+     [
+      "Форма",
+      "BVI Business Company по BVI Business Companies Act",
+      "International Business Company по International Business Companies Act, 2016"
+     ],
+     [
+      "Регистратор и надзор",
+      "Registry of Corporate Affairs, BVI Financial Services Commission",
+      "Financial Services Authority (FSA) Seychelles"
+     ],
+     [
+      "Кто подаёт документы",
+      "только лицензированный зарегистрированный агент",
+      "лицензированный зарегистрированный агент"
+     ],
+     [
+      "Бенефициары",
+      "с 2 января 2025 года сведения подаются в реестр через систему VIRRGIN",
+      "реестр бенефициаров у компании и база по Beneficial Ownership Act, 2020; порог — 10%"
+     ],
+     [
+      "Годовая финансовая информация",
+      "годовой финансовый отчёт агенту в течение 9 месяцев после конца года (раздел 98A)",
+      "бухгалтерские записи хранятся в офисе зарегистрированного агента в Сейшелах"
+     ],
+     [
+      "Связь с налоговой службой",
+      "компании, которые сдают декларацию и отчётность в Inland Revenue БВО, освобождены от годового отчёта агенту",
+      "декларация по business tax нужна, если есть доход из сейшельского источника"
+     ],
+     [
+      "Список ЕС от 9 октября 2026 года",
+      "в списке нет; в приложении II с обязательством по проверке Глобального форума до 15.02.2027",
+      "в списке нет"
+     ]
+    ],
+    "uk": [
+     [
+      "Форма",
+      "BVI Business Company за BVI Business Companies Act",
+      "International Business Company за International Business Companies Act, 2016"
+     ],
+     [
+      "Реєстратор і нагляд",
+      "Registry of Corporate Affairs, BVI Financial Services Commission",
+      "Financial Services Authority (FSA) Seychelles"
+     ],
+     [
+      "Хто подає документи",
+      "лише ліцензований зареєстрований агент",
+      "ліцензований зареєстрований агент"
+     ],
+     [
+      "Бенефіціари",
+      "з 2 січня 2025 року відомості подаються до реєстру через систему VIRRGIN",
+      "реєстр бенефіціарів у компанії та база за Beneficial Ownership Act, 2020; поріг — 10%"
+     ],
+     [
+      "Річна фінансова інформація",
+      "річний фінансовий звіт агенту протягом 9 місяців після закінчення року (розділ 98A)",
+      "бухгалтерські записи зберігаються в офісі зареєстрованого агента на Сейшелах"
+     ],
+     [
+      "Зв’язок із податковою службою",
+      "компанії, які подають декларацію та звітність до Inland Revenue БВО, звільнені від річного звіту агенту",
+      "декларація з business tax потрібна, якщо є дохід із сейшельського джерела"
+     ],
+     [
+      "Перелік ЄС від 9 жовтня 2026 року",
+      "у переліку немає; у додатку II із зобов’язанням щодо перевірки Глобального форуму до 15.02.2027",
+      "у переліку немає"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "BVI vs Seychelles: registered agent and registers, beneficial owners, annual return and accounting, local income tax, EU list and banking. As of Oct 23, 2026.",
+    "ru": "БВО или Сейшелы: агент и реестры, бенефициары, годовой отчёт и бухгалтерия, налог на местный доход, список ЕС и банк. Сравнение оффшоров на 23.10.2026.",
+    "uk": "БВО чи Сейшели: агент і реєстри, бенефіціари, річний звіт і облік, податок на місцевий дохід, перелік ЄС і банк. Порівняння офшорів станом на 23.10.2026."
+   },
+   "choose": {
+    "en": [
+     "A holding company for investors, a joint venture, a future sale of a stake: more often the BVI, since buyers' lawyers know its corporate law and registers. For details, see the page BVI offshore company.",
+     "A small company to hold an asset on a limited budget: Seychelles is worth considering if the bank has confirmed in advance that it will work with a Seychelles IBC. For details, see our article on a company in Seychelles.",
+     "A fund or a large investment structure: compare the Cayman Islands as well: Cayman Islands vs BVI.",
+     "Sales to EU clients with card payments: both jurisdictions usually add questions from PSPs, so we look at operating countries in the offshore jurisdictions section."
+    ],
+    "ru": [
+     "Холдинг под инвесторов, совместный проект, будущая продажа доли — чаще БВО: её корпоративное право и реестры знакомы юристам покупателя. Подробно — на странице оффшор на БВО.",
+     "Небольшая компания для владения активом с ограниченным бюджетом — можно рассмотреть Сейшелы, если банк заранее подтвердил готовность работать с сейшельской IBC. Подробно — в материале о компании на Сейшелах.",
+     "Фонд или крупная инвестиционная структура — сравните ещё и Кайманы: Кайманы или BVI.",
+     "Продажи клиентам в ЕС с карточными платежами — обе юрисдикции обычно добавляют вопросов у PSP, поэтому смотрим операционные страны в разделе оффшорные зоны."
+    ],
+    "uk": [
+     "Холдинг під інвесторів, спільний проєкт, майбутній продаж частки — частіше БВО: її корпоративне право й реєстри знайомі юристам покупця. Докладно — на сторінці офшор на БВО.",
+     "Невелика компанія для володіння активом з обмеженим бюджетом — можна розглянути Сейшели, якщо банк заздалегідь підтвердив готовність працювати із сейшельською IBC. Докладно — у матеріалі про компанію на Сейшелах.",
+     "Фонд або велика інвестиційна структура — порівняйте ще й Кайманові Острови: Кайманові Острови чи BVI.",
+     "Продажі клієнтам у ЄС із картковими платежами — обидві юрисдикції зазвичай додають запитань у PSP, тому розглядаємо операційні країни в розділі офшорні зони."
+    ]
+   },
+   "choose_title": {
+    "en": "How to choose",
+    "ru": "Как выбрать",
+    "uk": "Як обрати"
+   }
+  },
+  {
+   "id": "cayman-vs-bvi",
+   "kind": "table",
+   "source": "comparisons/cayman-vs-bvi",
+   "codes": [
+    "KY",
+    "VG"
+   ],
+   "title": {
+    "en": "Cayman Islands vs BVI for Funds, SPVs and Holding Companies",
+    "ru": "Кайманы или БВО: оффшор для фонда, SPV и холдинга",
+    "uk": "Кайманові Острови чи БВО: офшор для фонду, SPV і холдингу"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/cayman-vs-bvi/",
+    "ru": "https://offshora.com/ru/comparisons/cayman-vs-bvi/",
+    "uk": "https://offshora.com/uk/comparisons/cayman-vs-bvi/"
+   },
+   "header": {
+    "en": [
+     "Parameter",
+     "Cayman Islands",
+     "BVI"
+    ],
+    "ru": [
+     "Параметр",
+     "Каймановы острова",
+     "БВО"
+    ],
+    "uk": [
+     "Параметр",
+     "Кайманові Острови",
+     "БВО"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "Tax on company profits",
+      "no income tax, corporate profits tax or capital gains tax",
+      "no corporate income tax or capital gains tax"
+     ],
+     [
+      "Typical form",
+      "exempted company",
+      "BVI Business Company under the BVI Business Companies Act"
+     ],
+     [
+      "Registry",
+      "General Registry",
+      "Registry of Corporate Affairs"
+     ],
+     [
+      "Who registers",
+      "a licensed corporate service provider",
+      "only a licensed registered agent"
+     ],
+     [
+      "Fund regulator",
+      "CIMA (Cayman Islands Monetary Authority)",
+      "BVI FSC, SIBA 2010"
+     ],
+     [
+      "Beneficial owners",
+      "Beneficial Ownership Transparency Act, 2023, in force since July 31, 2024",
+      "information filed with the registry through the VIRRGIN system since January 2, 2025"
+     ],
+     [
+      "Annual reporting",
+      "annual return to the General Registry",
+      "annual financial return to the agent within 9 months after the end of the financial year"
+     ],
+     [
+      "EU list of October 9, 2026",
+      "not on the list of non-cooperative jurisdictions",
+      "not on the list, with a commitment in Annex II"
+     ]
+    ],
+    "ru": [
+     [
+      "Налог на прибыль компании",
+      "нет подоходного налога, налога на прибыль компаний и на прирост капитала",
+      "корпоративного подоходного налога и налога на прирост капитала нет"
+     ],
+     [
+      "Типичная форма",
+      "освобождённая компания (exempted company)",
+      "BVI Business Company по BVI Business Companies Act"
+     ],
+     [
+      "Реестр",
+      "General Registry",
+      "Registry of Corporate Affairs"
+     ],
+     [
+      "Кто регистрирует",
+      "лицензированный провайдер корпоративных услуг",
+      "только лицензированный зарегистрированный агент"
+     ],
+     [
+      "Регулятор фондов",
+      "CIMA (Cayman Islands Monetary Authority)",
+      "BVI FSC, закон SIBA 2010"
+     ],
+     [
+      "Бенефициары",
+      "Beneficial Ownership Transparency Act, 2023, в силе с 31 июля 2024 года",
+      "сведения подаются в реестр через систему VIRRGIN с 2 января 2025 года"
+     ],
+     [
+      "Ежегодная отчётность",
+      "годовой отчёт в General Registry",
+      "годовой финансовый отчёт агенту в течение 9 месяцев после конца финансового года"
+     ],
+     [
+      "Список ЕС от 9 октября 2026 года",
+      "в списке некооперативных юрисдикций нет",
+      "в списке нет, есть обязательство в приложении II"
+     ]
+    ],
+    "uk": [
+     [
+      "Податок на прибуток компанії",
+      "немає прибуткового податку, податку на прибуток компаній і на приріст капіталу",
+      "корпоративного прибуткового податку та податку на приріст капіталу немає"
+     ],
+     [
+      "Типова форма",
+      "звільнена компанія (exempted company)",
+      "BVI Business Company за BVI Business Companies Act"
+     ],
+     [
+      "Реєстр",
+      "General Registry",
+      "Registry of Corporate Affairs"
+     ],
+     [
+      "Хто реєструє",
+      "ліцензований постачальник корпоративних послуг",
+      "лише ліцензований зареєстрований агент"
+     ],
+     [
+      "Регулятор фондів",
+      "CIMA (Cayman Islands Monetary Authority)",
+      "BVI FSC, закон SIBA 2010"
+     ],
+     [
+      "Бенефіціари",
+      "Beneficial Ownership Transparency Act, 2023, чинний з 31 липня 2024 року",
+      "відомості подаються до реєстру через систему VIRRGIN з 2 січня 2025 року"
+     ],
+     [
+      "Щорічна звітність",
+      "річний звіт до General Registry",
+      "річний фінансовий звіт агенту протягом 9 місяців після закінчення фінансового року"
+     ],
+     [
+      "Перелік ЄС від 9 жовтня 2026 року",
+      "у переліку юрисдикцій, що не співпрацюють у податкових цілях, немає",
+      "у переліку немає, є зобов’язання в додатку II"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "Cayman Islands vs BVI: taxes, company forms, fund regulation, beneficial owners, annual reporting, the EU list and how to choose for a holding company or SPV.",
+    "ru": "Каймановы острова или БВО (BVI): налоги, формы компаний, регулирование фондов, бенефициары, годовая отчётность, список ЕС и сценарии выбора для холдинга и SPV.",
+    "uk": "Кайманові Острови чи БВО (BVI): податки, форми компаній, регулювання фондів, бенефіціари, річна звітність, перелік ЄС і сценарії вибору для холдингу та SPV."
+   },
+   "choose": {
+    "en": [
+     "A fund for professional investors: more often the Cayman Islands, given the infrastructure and market expectations.",
+     "A pool of several co-investors for one deal: more often a BVI SPV, if interests are not offered to outside investors.",
+     "A family group holding company: more often the BVI, if investors and the bank do not specifically expect the Cayman Islands.",
+     "A holding company for a future sale or IPO: we check which jurisdiction buyers and the stock exchange expect."
+    ],
+    "ru": [
+     "Фонд для профессиональных инвесторов — чаще Кайманы: инфраструктура и ожидания рынка.",
+     "Пул из нескольких соинвесторов под одну сделку — чаще SPV на БВО, если нет предложения долей внешним инвесторам.",
+     "Холдинг семейной группы — чаще БВО, если инвесторы и банк не ожидают именно Кайманов.",
+     "Холдинг под будущую продажу или IPO — проверяем, какую юрисдикцию ожидают покупатели и биржа."
+    ],
+    "uk": [
+     "Фонд для професійних інвесторів — частіше Кайманові Острови: інфраструктура та очікування ринку.",
+     "Пул із кількох співінвесторів під одну угоду — частіше SPV на БВО, якщо немає пропозиції часток зовнішнім інвесторам.",
+     "Холдинг сімейної групи — частіше БВО, якщо інвестори й банк не очікують саме Кайманових Островів.",
+     "Холдинг під майбутній продаж або IPO — перевіряємо, якої юрисдикції очікують покупці та біржа."
+    ]
+   },
+   "choose_title": {
+    "en": "How to choose",
+    "ru": "Как выбрать",
+    "uk": "Як обрати"
+   }
+  },
+  {
+   "id": "panama-vs-nevis",
+   "kind": "table",
+   "source": "comparisons/panama-vs-nevis",
+   "codes": [
+    "PA",
+    "KN"
+   ],
+   "title": {
+    "en": "Panama vs Nevis: Offshore Company for Trading and Asset Holding",
+    "ru": "Панама или Невис: оффшор для торговли и владения активами",
+    "uk": "Панама чи Невіс: офшор для торгівлі та володіння активами"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/panama-vs-nevis/",
+    "ru": "https://offshora.com/ru/comparisons/panama-vs-nevis/",
+    "uk": "https://offshora.com/uk/comparisons/panama-vs-nevis/"
+   },
+   "header": {
+    "en": [
+     "Parameter",
+     "Panama",
+     "Nevis"
+    ],
+    "ru": [
+     "Параметр",
+     "Панама",
+     "Невис"
+    ],
+    "uk": [
+     "Параметр",
+     "Панама",
+     "Невіс"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "Tax principle",
+      "territorial: income tax only on income arising in Panama (Article 694 of the Código Fiscal)",
+      "the regulator's fee schedule includes a Tax Exemption Letter; the conditions are checked for each specific company"
+     ],
+     [
+      "Typical form",
+      "sociedad anónima (S.A.)",
+      "IBC under the Nevis Business Corporation Ordinance or LLC under the Nevis Limited Liability Company Ordinance"
+     ],
+     [
+      "Who maintains the company",
+      "a resident agent: a Panamanian lawyer or law firm",
+      "a licensed registered agent in Nevis"
+     ],
+     [
+      "Regulator",
+      "Superintendencia de Sujetos no Financieros, Registro Público",
+      "Financial Services Regulatory Commission (FSRC), Nevis Branch"
+     ],
+     [
+      "Beneficial owners",
+      "a closed government register under Law 129 of 2020",
+      "the agent obtains and keeps information on beneficial owners and shareholders"
+     ],
+     [
+      "Annual obligations",
+      "by April 30, provide the agent with accounting records for the previous year",
+      "renewal fee of USD 300 (IBCs and LLCs)"
+     ],
+     [
+      "EU list of October 9, 2026",
+      "not on the list; awaiting an in-depth Global Forum review (Annex II)",
+      "St Kitts and Nevis is not on the list"
+     ]
+    ],
+    "ru": [
+     [
+      "Налоговый принцип",
+      "территориальный: налог на прибыль только с дохода, возникшего в Панаме (статья 694 Código Fiscal)",
+      "в тарифах регулятора есть письмо о налоговом освобождении (Tax Exemption Letter), условия проверяются для конкретной компании"
+     ],
+     [
+      "Типичная форма",
+      "sociedad anónima (S.A.)",
+      "IBC по Nevis Business Corporation Ordinance или LLC по Nevis Limited Liability Company Ordinance"
+     ],
+     [
+      "Кто обслуживает",
+      "агент-резидент: панамский адвокат или юридическая фирма",
+      "лицензированный зарегистрированный агент на Невисе"
+     ],
+     [
+      "Регулятор",
+      "Superintendencia de Sujetos no Financieros, Registro Público",
+      "Financial Services Regulatory Commission (FSRC), Nevis Branch"
+     ],
+     [
+      "Бенефициары",
+      "закрытый государственный реестр по Закону 129 от 2020 года",
+      "агент получает и хранит данные о бенефициарах и акционерах"
+     ],
+     [
+      "Ежегодные обязанности",
+      "до 30 апреля передать агенту бухгалтерские записи за прошлый год",
+      "сбор за продление USD 300 (IBC и LLC)"
+     ],
+     [
+      "Список ЕС от 9 октября 2026 года",
+      "в списке нет; ожидает углублённой проверки Глобального форума (приложение II)",
+      "Сент-Китс и Невис в списке нет"
+     ]
+    ],
+    "uk": [
+     [
+      "Податковий принцип",
+      "територіальний: податок на прибуток лише з доходу, що виник у Панамі (стаття 694 Código Fiscal)",
+      "у тарифах регулятора є лист про податкове звільнення (Tax Exemption Letter), умови перевіряють для конкретної компанії"
+     ],
+     [
+      "Типова форма",
+      "sociedad anónima (S.A.)",
+      "IBC за Nevis Business Corporation Ordinance або LLC за Nevis Limited Liability Company Ordinance"
+     ],
+     [
+      "Хто обслуговує",
+      "агент-резидент: панамський адвокат або юридична фірма",
+      "ліцензований зареєстрований агент на Невісі"
+     ],
+     [
+      "Регулятор",
+      "Superintendencia de Sujetos no Financieros, Registro Público",
+      "Financial Services Regulatory Commission (FSRC), Nevis Branch"
+     ],
+     [
+      "Бенефіціари",
+      "закритий державний реєстр за Законом 129 від 2020 року",
+      "агент отримує й зберігає дані про бенефіціарів і акціонерів"
+     ],
+     [
+      "Щорічні обов’язки",
+      "до 30 квітня передати агенту бухгалтерські записи за минулий рік",
+      "збір за продовження USD 300 (IBC і LLC)"
+     ],
+     [
+      "Перелік ЄС від 9 жовтня 2026 року",
+      "у переліку немає; очікує поглибленої перевірки Глобального форуму (додаток II)",
+      "Сент-Кіттс і Невіс у переліку немає"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "Panama vs Nevis: taxes, company forms, agent, beneficial owners, annual fees and reporting, EU list, banking and choice for trading and asset holding.",
+    "ru": "Панама или Невис: налоги, формы компаний, агент, бенефициары, ежегодные сборы и отчётность, список ЕС, банк и выбор для торговой компании и владения активами.",
+    "uk": "Панама чи Невіс: податки, форми компаній, агент, бенефіціари, щорічні збори та звітність, перелік ЄС, банк і вибір для торгівлі та володіння активами."
+   },
+   "choose": {
+    "en": [
+     "Trading or intermediary business with Latin America: more often Panama, since counterparties know Panamanian structures and the territorial principle suits a company with no Panama-source income. For details, see the page Panama offshore company.",
+     "Holding shares, real estate or a portfolio: more often Nevis, especially an LLC with flexible management rules. For details, see the page Nevis offshore company.",
+     "A company in a multinational group with passive income: in Panama, from 2027 we check the requirements of Law 526.",
+     "Sales to EU clients through marketplaces and cards: both jurisdictions usually raise extra questions from PSPs; for this model we compare them with England or Hong Kong."
+    ],
+    "ru": [
+     "Торговля или посредничество с Латинской Америкой — чаще Панама: контрагентам знакомы панамские структуры, а территориальный принцип подходит компании без дохода из Панамы. Подробно — на странице оффшор в Панаме.",
+     "Владение долями, недвижимостью или портфелем — чаще Невис, особенно LLC с гибкими правилами управления. Подробно — на странице оффшор на Невисе.",
+     "Компания из многонациональной группы с пассивным доходом — в Панаме с 2027 года проверяем требования Закона 526.",
+     "Продажи клиентам в ЕС через маркетплейсы и карты — обе юрисдикции обычно создают лишние вопросы у PSP; для такой модели сравниваем их с Англией или Гонконгом."
+    ],
+    "uk": [
+     "Торгівля або посередництво з Латинською Америкою — частіше Панама: контрагентам знайомі панамські структури, а територіальний принцип підходить компанії без доходу з Панами. Докладно — на сторінці офшор у Панамі.",
+     "Володіння частками, нерухомістю чи портфелем — частіше Невіс, особливо LLC з гнучкими правилами управління. Докладно — на сторінці офшор на Невісі.",
+     "Компанія з міжнародної групи з пасивним доходом — у Панамі з 2027 року перевіряємо вимоги Закону 526.",
+     "Продажі клієнтам у ЄС через маркетплейси й картки — обидві юрисдикції зазвичай створюють зайві запитання в PSP; для такої моделі порівнюємо їх з Англією чи Гонконгом."
+    ]
+   },
+   "choose_title": {
+    "en": "How to choose",
+    "ru": "Как выбрать",
+    "uk": "Як обрати"
+   }
+  },
+  {
+   "id": "delaware-vs-wyoming",
+   "kind": "table",
+   "source": "comparisons/delaware-vs-wyoming",
+   "codes": [
+    "US-DE",
+    "US-WY"
+   ],
+   "title": {
+    "en": "Delaware vs Wyoming: Which State to Choose for a Non-Resident LLC",
+    "ru": "Делавэр или Вайоминг: какой штат выбрать для LLC нерезиденту",
+    "uk": "Делавер чи Вайомінг: який штат обрати для LLC нерезиденту"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/delaware-vs-wyoming/",
+    "ru": "https://offshora.com/ru/comparisons/delaware-vs-wyoming/",
+    "uk": "https://offshora.com/uk/comparisons/delaware-vs-wyoming/"
+   },
+   "header": {
+    "en": [
+     "Parameter",
+     "Delaware",
+     "Wyoming"
+    ],
+    "ru": [
+     "Параметр",
+     "Делавэр",
+     "Вайоминг"
+    ],
+    "uk": [
+     "Параметр",
+     "Делавер",
+     "Вайомінг"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "Registering authority",
+      "Division of Corporations",
+      "Secretary of State, Business Division"
+     ],
+     [
+      "Formation fee",
+      "per the Division of Corporations fee schedule on the filing date",
+      "$100 for most entity types, plus a service fee for online payment"
+     ],
+     [
+      "LLC annual payment",
+      "$400 tax for the previous year, due by June 1; an LLC does not file an annual report",
+      "Annual Report License Tax: $60 or 0.0002 of the company's assets located in Wyoming, whichever is greater"
+     ],
+     [
+      "Corporation annual payment",
+      "annual report and franchise tax by March 1: $50 report fee, minimum tax of $175 under the authorized shares method or $400 under the assumed par value capital method",
+      "the same Annual Report License Tax"
+     ],
+     [
+      "Report deadline",
+      "fixed dates: March 1 for corporations, June 1 for LLCs",
+      "the first day of the month in which the company was formed"
+     ],
+     [
+      "Late filing",
+      "$200 penalty and 1.5% per month on the tax and penalty",
+      "from the second day of the following month the company is delinquent; after 60 days without a report, administrative dissolution"
+     ],
+     [
+      "Registered agent",
+      "required, with a physical address in Delaware",
+      "required for all companies in the state"
+     ]
+    ],
+    "ru": [
+     [
+      "Регистрирующий орган",
+      "Division of Corporations",
+      "Secretary of State, Business Division"
+     ],
+     [
+      "Сбор за создание",
+      "по тарифу Division of Corporations на дату подачи",
+      "$100 для большинства форм, при онлайн-оплате добавляется сервисный сбор"
+     ],
+     [
+      "Ежегодный платёж LLC",
+      "налог $400 за прошлый год, срок до 1 июня; годовой отчёт LLC не сдаёт",
+      "Annual Report License Tax: $60 или 0,0002 от стоимости активов компании в Вайоминге, что больше"
+     ],
+     [
+      "Ежегодный платёж корпорации",
+      "годовой отчёт и franchise tax до 1 марта: сбор за отчёт $50, минимальный налог $175 по методу authorized shares или $400 по методу assumed par value capital",
+      "тот же Annual Report License Tax"
+     ],
+     [
+      "Срок отчёта",
+      "фиксированные даты: 1 марта для корпораций, 1 июня для LLC",
+      "первое число месяца, в котором компания создана"
+     ],
+     [
+      "Просрочка",
+      "штраф $200 и 1,5% в месяц на налог и штраф",
+      "со второго числа следующего месяца компания считается просрочившей, через 60 дней без отчёта — административная ликвидация"
+     ],
+     [
+      "Registered agent",
+      "обязателен, с физическим адресом в Делавэре",
+      "обязателен для всех компаний штата"
+     ]
+    ],
+    "uk": [
+     [
+      "Реєстраційний орган",
+      "Division of Corporations",
+      "Secretary of State, Business Division"
+     ],
+     [
+      "Збір за створення",
+      "за тарифом Division of Corporations на дату подання",
+      "$100 для більшості форм, у разі онлайн-оплати додається сервісний збір"
+     ],
+     [
+      "Щорічний платіж LLC",
+      "податок $400 за минулий рік, строк до 1 червня; річного звіту LLC не подає",
+      "Annual Report License Tax: $60 або 0,0002 від вартості активів компанії у Вайомінгу, залежно від того, що більше"
+     ],
+     [
+      "Щорічний платіж корпорації",
+      "річний звіт і franchise tax до 1 березня: збір за звіт $50, мінімальний податок $175 за методом authorized shares або $400 за методом assumed par value capital",
+      "той самий Annual Report License Tax"
+     ],
+     [
+      "Строк звіту",
+      "фіксовані дати: 1 березня для корпорацій, 1 червня для LLC",
+      "перше число місяця, у якому компанію створено"
+     ],
+     [
+      "Прострочення",
+      "штраф $200 і 1,5% на місяць на податок і штраф",
+      "з другого числа наступного місяця компанія вважається такою, що порушила строк, через 60 днів без звіту — адміністративна ліквідація"
+     ],
+     [
+      "Registered agent",
+      "обов’язковий, із фізичною адресою в Делавері",
+      "обов’язковий для всіх компаній штату"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "Delaware vs Wyoming for an LLC or corporation: state fees, annual tax and report, deadlines, Form 5472 for a foreign owner, banking and choice scenarios.",
+    "ru": "Делавэр или Вайоминг для LLC и корпорации: сборы штатов, ежегодный налог и отчёт, сроки, Form 5472 для иностранного владельца, банк и сценарии выбора.",
+    "uk": "Делавер чи Вайомінг для LLC і корпорації: збори штатів, щорічний податок і звіт, строки, Form 5472 для іноземного власника, банк і сценарії вибору."
+   },
+   "choose": {
+    "en": [
+     "A startup with venture plans. Three co-founders from different countries, a round in 12–18 months. A Delaware C-Corp is usually chosen: investors are used to the documents and the court.",
+     "A consultant with clients in the US and Europe. A company is needed for contracts and invoices, with no outside investors. Wyoming is cheaper to maintain; compare it with a UK company in our article UK Ltd vs US LLC.",
+     "The team works from a third state. If the business is actually conducted in another state, the company may need to register there as a foreign entity (foreign qualification). A corporation that is foreign to Delaware, for example, files an annual report by June 30 with a $250 fee. This cost is worth budgeting for before choosing a state."
+    ],
+    "ru": [
+     "Стартап с венчурными планами. Три сооснователя из разных стран, раунд через 12–18 месяцев. Обычно выбирают делавэрскую C-Corp: инвесторам привычны документы и суд.",
+     "Консультант с клиентами в США и Европе. Нужна компания для договоров и счетов, внешних инвесторов нет. Вайоминг дешевле в содержании; сравните его с британской компанией в статье UK LTD или US LLC.",
+     "Команда работает из третьего штата. Если бизнес фактически ведётся в другом штате, компании может понадобиться регистрация там как иностранной (foreign qualification). Иностранная для Делавэра корпорация, например, сдаёт годовой отчёт до 30 июня со сбором $250. Такой расход стоит заложить в бюджет до выбора штата."
+    ],
+    "uk": [
+     "Стартап із венчурними планами. Троє співзасновників із різних країн, раунд через 12–18 місяців. Зазвичай обирають делаверську C-корпорацію: інвесторам звичні документи й суд.",
+     "Консультант із клієнтами в США та Європі. Потрібна компанія для договорів і рахунків, зовнішніх інвесторів немає. Вайомінг дешевший в утриманні; порівняйте його з британською компанією в статті UK Ltd чи US LLC.",
+     "Команда працює з третього штату. Якщо бізнес фактично ведеться в іншому штаті, компанії може знадобитися реєстрація там як іноземної (foreign qualification). Іноземна для Делаверу корпорація, наприклад, подає річний звіт до 30 червня зі збором $250. Такі витрати варто закласти в бюджет до вибору штату."
+    ]
+   },
+   "choose_title": {
+    "en": "Three typical scenarios",
+    "ru": "Три типичных сценария",
+    "uk": "Три типові сценарії"
+   }
+  },
+  {
+   "id": "uk-ltd-vs-us-llc",
+   "kind": "table",
+   "source": "comparisons/uk-ltd-vs-us-llc",
+   "codes": [
+    "GB",
+    "US"
+   ],
+   "title": {
+    "en": "UK Ltd vs US LLC for Non-Residents: Tax, Filings and Banking",
+    "ru": "UK LTD или US LLC для нерезидента: налоги, отчётность и банк",
+    "uk": "UK LTD чи US LLC для нерезидента: податки, звітність і банк"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/uk-ltd-vs-us-llc/",
+    "ru": "https://offshora.com/ru/comparisons/uk-ltd-vs-us-llc/",
+    "uk": "https://offshora.com/uk/comparisons/uk-ltd-vs-us-llc/"
+   },
+   "header": {
+    "en": [
+     "Parameter",
+     "UK Ltd",
+     "US LLC"
+    ],
+    "ru": [
+     "Параметр",
+     "UK LTD",
+     "US LLC"
+    ],
+    "uk": [
+     "Параметр",
+     "UK LTD",
+     "US LLC"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "Governing law",
+      "Companies Act, Companies House register",
+      "the law of a specific state, such as Delaware or Wyoming"
+     ],
+     [
+      "Company tax",
+      "Corporation Tax: 25%, 19% for profits up to £50,000, Marginal Relief between the thresholds",
+      "by default a single-member LLC is a disregarded entity, with two or more members a partnership; Form 8832 lets it elect to be taxed as a corporation"
+     ],
+     [
+      "Formation",
+      "Companies House online fee of £100",
+      "state fee; in Delaware an annual LLC tax of $400 due by June 1"
+     ],
+     [
+      "Every year",
+      "confirmation statement (£50 online), annual accounts, Company Tax Return",
+      "in Delaware an LLC files no annual report; federal forms depend on the classification"
+     ],
+     [
+      "Foreign owner",
+      "directors and PSCs go through identity verification",
+      "an LLC with one foreign owner files Form 5472 with a pro forma Form 1120"
+     ],
+     [
+      "Ownership disclosure",
+      "PSC: more than 25% of shares or votes, control of the board or other significant influence",
+      "FinCEN has exempted companies created in the US from BOI reporting"
+     ]
+    ],
+    "ru": [
+     [
+      "Право",
+      "Companies Act, реестр Companies House",
+      "закон конкретного штата, например Делавэра или Вайоминга"
+     ],
+     [
+      "Налог компании",
+      "Corporation Tax: 25%, для прибыли до £50 000 — 19%, между порогами — Marginal Relief",
+      "по умолчанию при одном участнике — disregarded entity, с двумя и более — partnership; по Form 8832 можно выбрать налогообложение как корпорации"
+     ],
+     [
+      "Регистрация",
+      "онлайн-сбор Companies House £100",
+      "сбор штата; в Делавэре ежегодный налог LLC $400 до 1 июня"
+     ],
+     [
+      "Ежегодно",
+      "confirmation statement (£50 онлайн), годовая отчётность, Company Tax Return",
+      "в Делавэре годовой отчёт для LLC не нужен; федеральные формы зависят от классификации"
+     ],
+     [
+      "Иностранный владелец",
+      "директора и PSC проходят проверку личности",
+      "LLC одного иностранного владельца подаёт Form 5472 с pro forma Form 1120"
+     ],
+     [
+      "Раскрытие владельцев",
+      "PSC: более 25% акций или голосов, контроль над советом или иное влияние",
+      "компании, созданные в США, освобождены FinCEN от отчётности BOI"
+     ]
+    ],
+    "uk": [
+     [
+      "Право",
+      "Companies Act, реєстр Companies House",
+      "закон конкретного штату, наприклад Делаверу чи Вайомінгу"
+     ],
+     [
+      "Податок компанії",
+      "Corporation Tax: 25%, для прибутку до £50 000 — 19%, між порогами — Marginal Relief",
+      "за замовчуванням за одного учасника — disregarded entity, за двох і більше — partnership; за Form 8832 можна обрати оподаткування як корпорації"
+     ],
+     [
+      "Реєстрація",
+      "онлайн-збір Companies House £100",
+      "збір штату; у Делавері щорічний податок LLC $400 до 1 червня"
+     ],
+     [
+      "Щороку",
+      "confirmation statement (£50 онлайн), річна звітність, Company Tax Return",
+      "у Делавері річний звіт для LLC не потрібен; федеральні форми залежать від класифікації"
+     ],
+     [
+      "Іноземний власник",
+      "директори та PSC проходять верифікацію особи",
+      "LLC одного іноземного власника подає Form 5472 із pro forma Form 1120"
+     ],
+     [
+      "Розкриття власників",
+      "PSC: понад 25% акцій або голосів, контроль над радою чи інший вплив",
+      "компанії, створені в США, FinCEN звільнив від звітності BOI"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "UK Ltd vs US LLC for non-residents: Corporation Tax and LLC tax classification, Form 5472, Companies House, identity checks, fees and how to choose.",
+    "ru": "UK LTD или US LLC для нерезидента: Corporation Tax и налоговая классификация LLC, Form 5472, Companies House, проверка личности, сборы и выбор под задачу.",
+    "uk": "UK LTD чи US LLC для нерезидента: Corporation Tax і податкова класифікація LLC, Form 5472, Companies House, верифікація особи, збори та вибір під завдання."
+   },
+   "choose": {
+    "en": [
+     "An agency or consultant with UK clients, invoicing in pounds: a UK Ltd, a form counterparties understand, with tax paid in the UK.",
+     "A product for US buyers, one foreign owner: a US LLC, if the owner is ready for Form 5472 and for tax on their income at home.",
+     "Plans for venture investment in the US: compare an LLC with a corporation before registration."
+    ],
+    "ru": [
+     "Агентство или консультант с британскими клиентами, расчёты в фунтах — UK LTD с понятной контрагентам формой и налогом в Великобритании.",
+     "Продукт для американских покупателей, один иностранный владелец — US LLC, если владелец готов к Form 5472 и налогу на свой доход дома.",
+     "Планы на венчурные инвестиции в США — сравните LLC с корпорацией до регистрации."
+    ],
+    "uk": [
+     "Агенція чи консультант із британськими клієнтами, розрахунки у фунтах — UK LTD зі зрозумілою контрагентам формою та податком у Великій Британії.",
+     "Продукт для американських покупців, один іноземний власник — US LLC, якщо власник готовий до Form 5472 і податку на свій дохід у своїй країні.",
+     "Плани на венчурні інвестиції у США — порівняйте LLC з корпорацією до реєстрації."
+    ]
+   },
+   "choose_title": {
+    "en": "How to choose",
+    "ru": "Как выбрать",
+    "uk": "Як обрати"
+   }
+  },
+  {
+   "id": "estonia-vs-cyprus",
+   "kind": "table",
+   "source": "comparisons/estonia-vs-cyprus",
+   "codes": [
+    "EE",
+    "CY"
+   ],
+   "title": {
+    "en": "Estonia vs Cyprus: Company Tax and Dividends in 2026",
+    "ru": "Эстония или Кипр: налоги компании и дивиденды в 2026 году",
+    "uk": "Естонія чи Кіпр: податки компанії та дивіденди у 2026 році"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/estonia-vs-cyprus/",
+    "ru": "https://offshora.com/ru/comparisons/estonia-vs-cyprus/",
+    "uk": "https://offshora.com/uk/comparisons/estonia-vs-cyprus/"
+   },
+   "header": {
+    "en": [
+     "Parameter",
+     "Estonia (OÜ)",
+     "Cyprus (Ltd)"
+    ],
+    "ru": [
+     "Параметр",
+     "Эстония (OÜ)",
+     "Кипр (Ltd)"
+    ],
+    "uk": [
+     "Параметр",
+     "Естонія (OÜ)",
+     "Кіпр (Ltd)"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "Corporate income tax",
+      "22/78 on profit distribution (22% of the gross amount); undistributed profit is not taxed",
+      "15% on profit from January 1, 2026 (previously 12.5%)"
+     ],
+     [
+      "Reduced rates",
+      "the 14/86 rate on regular dividends was abolished from 2025",
+      "—"
+     ],
+     [
+      "Dividends to the owner",
+      "since 2025, dividends are taxed in Estonia only at company level",
+      "the Special Defence Contribution (SDC) for individuals was cut from 17% to 5% on profits from 2026"
+     ],
+     [
+      "Deemed distribution",
+      "—",
+      "deemed dividend distribution was abolished for profits from 2026"
+     ],
+     [
+      "Tax reporting",
+      "TSD return by the 10th day of the month following the payout",
+      "returns to the Cyprus Tax Department"
+     ],
+     [
+      "Tax residency",
+      "a company established under Estonian law is resident in Estonia",
+      "from 2026, a resident is a company managed from Cyprus or one incorporated under the Cyprus companies law, unless a tax treaty provides otherwise"
+     ],
+     [
+      "EU list",
+      "EU member state",
+      "EU member state"
+     ]
+    ],
+    "ru": [
+     [
+      "Корпоративный налог",
+      "22/78 при распределении прибыли (22% от брутто-суммы); нераспределённая прибыль не облагается",
+      "15% с прибыли с 1 января 2026 года (раньше 12,5%)"
+     ],
+     [
+      "Пониженные ставки",
+      "ставка 14/86 на регулярные дивиденды отменена с 2025 года",
+      "—"
+     ],
+     [
+      "Дивиденды владельцу",
+      "с 2025 года дивиденды облагаются в Эстонии только на уровне компании",
+      "сбор на оборону (SDC) для физлиц снижен с 17% до 5% по прибыли с 2026 года"
+     ],
+     [
+      "Условное распределение",
+      "—",
+      "условное распределение прибыли (deemed dividend distribution) отменено для прибыли с 2026 года"
+     ],
+     [
+      "Отчётность по налогу",
+      "декларация TSD до 10-го числа месяца, следующего за выплатой",
+      "декларации в Налоговое управление Кипра"
+     ],
+     [
+      "Налоговое резидентство",
+      "компания, созданная по эстонскому праву, — резидент Эстонии",
+      "с 2026 года резидент — компания, которой управляют с Кипра, или созданная по кипрскому закону о компаниях, если налоговое соглашение не определяет иначе"
+     ],
+     [
+      "Список ЕС",
+      "страна ЕС",
+      "страна ЕС"
+     ]
+    ],
+    "uk": [
+     [
+      "Корпоративний податок",
+      "22/78 під час розподілу прибутку (22% від суми брутто); нерозподілений прибуток не оподатковується",
+      "15% з прибутку з 1 січня 2026 року (раніше 12,5%)"
+     ],
+     [
+      "Знижені ставки",
+      "ставку 14/86 на регулярні дивіденди скасовано з 2025 року",
+      "—"
+     ],
+     [
+      "Дивіденди власнику",
+      "з 2025 року дивіденди оподатковуються в Естонії лише на рівні компанії",
+      "спеціальний оборонний збір (SDC) для фізичних осіб знижено з 17% до 5% щодо прибутку з 2026 року"
+     ],
+     [
+      "Умовний розподіл",
+      "—",
+      "умовний розподіл прибутку (deemed dividend distribution) скасовано для прибутку з 2026 року"
+     ],
+     [
+      "Звітність із податку",
+      "декларація TSD до 10-го числа місяця, наступного за виплатою",
+      "декларації до Податкового управління Кіпру"
+     ],
+     [
+      "Податкове резидентство",
+      "компанія, створена за естонським правом, — резидент Естонії",
+      "з 2026 року резидент — компанія, якою управляють з Кіпру, або створена за кіпрським законом про компанії, якщо податковий договір не визначає інакше"
+     ],
+     [
+      "Перелік ЄС",
+      "країна ЄС",
+      "країна ЄС"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "Estonia vs Cyprus in 2026: 22/78 tax only on distributed profit versus the 15% rate in Cyprus, a 5% defence contribution on dividends, residency and choice.",
+    "ru": "Эстония или Кипр в 2026 году: налог 22/78 только при распределении прибыли против ставки 15% на Кипре, сбор на дивиденды 5%, резидентство и выбор.",
+    "uk": "Естонія чи Кіпр у 2026 році: податок 22/78 лише під час розподілу прибутку проти ставки 15% на Кіпрі, збір на дивіденди 5%, резидентство та вибір."
+   },
+   "choose": {
+    "en": [
+     "A small IT agency or SaaS business that reinvests profit: the Estonian model, with tax only on payout, is often simpler. For an industry breakdown, see our article on a structure for SaaS.",
+     "A holding company receiving dividends from subsidiaries, managed in Cyprus: a Cypriot Ltd, after calculating the 15% tax and the rules on receiving dividends.",
+     "The owner lives in a third country and runs the business from there: first check the company's tax residency; see our article on tax residency.",
+     "You need a European jurisdiction with a different profile: compare with a company in Austria."
+    ],
+    "ru": [
+     "Небольшое IT-агентство или SaaS, прибыль реинвестируется — эстонская модель с налогом только при выплате часто проще. Отраслевой разбор — в материале о структуре для SaaS.",
+     "Холдинг с дивидендами от дочерних обществ и управлением на Кипре — кипрская Ltd после расчёта налога 15% и правил получения дивидендов.",
+     "Владелец живёт в третьей стране и управляет бизнесом оттуда — сначала проверьте налоговое резидентство компании: материал о налоговом резидентстве.",
+     "Нужна европейская юрисдикция с другим профилем — сравните с компанией в Австрии."
+    ],
+    "uk": [
+     "Невелика IT-агенція або SaaS, прибуток реінвестується — естонська модель із податком лише під час виплати часто простіша. Галузевий розбір — у матеріалі про структуру для SaaS.",
+     "Холдинг із дивідендами від дочірніх товариств і управлінням на Кіпрі — кіпрська Ltd після розрахунку податку 15% і правил отримання дивідендів.",
+     "Власник живе в третій країні й управляє бізнесом звідти — спершу перевірте податкове резидентство компанії: матеріал про податкове резидентство.",
+     "Потрібна європейська юрисдикція з іншим профілем — порівняйте з компанією в Австрії."
+    ]
+   },
+   "choose_title": {
+    "en": "How to choose",
+    "ru": "Как выбрать",
+    "uk": "Як обрати"
+   }
+  },
+  {
+   "id": "hong-kong-vs-singapore",
+   "kind": "table",
+   "source": "comparisons/hong-kong-vs-singapore",
+   "codes": [
+    "HK",
+    "SG"
+   ],
+   "title": {
+    "en": "Hong Kong vs Singapore: Company Tax, Directors, Reporting",
+    "ru": "Гонконг или Сингапур: налоги, директор и отчётность компании",
+    "uk": "Гонконг чи Сінгапур: податки, директор і звітність компанії"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/hong-kong-vs-singapore/",
+    "ru": "https://offshora.com/ru/comparisons/hong-kong-vs-singapore/",
+    "uk": "https://offshora.com/uk/comparisons/hong-kong-vs-singapore/"
+   },
+   "header": {
+    "en": [
+     "Parameter",
+     "Hong Kong",
+     "Singapore"
+    ],
+    "ru": [
+     "Параметр",
+     "Гонконг",
+     "Сингапур"
+    ],
+    "uk": [
+     "Параметр",
+     "Гонконг",
+     "Сінгапур"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "Tax on profits",
+      "8.25% on the first HK$2 million, 16.5% above that; Hong Kong-sourced profits are taxed",
+      "17% on chargeable income; for YA 2026, a 50% CIT Rebate, with a combined cap of S$40,000 including the grant"
+     ],
+     [
+      "Foreign income",
+      "as a general rule, not taxed; the FSIE regime applies to multinational groups",
+      "tax residency is determined by the place of control and management"
+     ],
+     [
+      "Director",
+      "at least one director who is an individual, no requirement to live in Hong Kong",
+      "at least one director ordinarily resident in Singapore (section 145 of the Companies Act 1967)"
+     ],
+     [
+      "Company secretary",
+      "mandatory: a local resident or a company with a local office",
+      "appointed within 6 months and must meet the local residency requirements"
+     ],
+     [
+      "Annual return to the registry",
+      "NAR1 within 42 days after the incorporation anniversary, fee HK$105",
+      "annual return to ACRA through BizFile"
+     ],
+     [
+      "EU list of October 9, 2026",
+      "not on the list",
+      "not on the list"
+     ]
+    ],
+    "ru": [
+     [
+      "Налог на прибыль",
+      "8,25% с первых HK$2 млн, 16,5% сверх; облагается прибыль гонконгского источника",
+      "17% с налогооблагаемой прибыли; на YA 2026 скидка CIT Rebate 50%, лимит вместе с грантом — S$40 000"
+     ],
+     [
+      "Зарубежный доход",
+      "по общему правилу не облагается; для многонациональных групп действует режим FSIE",
+      "налоговое резидентство определяется местом контроля и управления"
+     ],
+     [
+      "Директор",
+      "минимум один директор — физическое лицо, жить в Гонконге не обязательно",
+      "минимум один директор, который обычно проживает в Сингапуре (статья 145 Companies Act 1967)"
+     ],
+     [
+      "Секретарь",
+      "обязателен: местный житель или компания с местным офисом",
+      "назначается в течение 6 месяцев, должен соответствовать требованиям к местному резидентству"
+     ],
+     [
+      "Ежегодный отчёт в реестр",
+      "NAR1 в течение 42 дней после годовщины регистрации, сбор HK$105",
+      "annual return в ACRA через BizFile"
+     ],
+     [
+      "Список ЕС от 9 октября 2026 года",
+      "в списке нет",
+      "в списке нет"
+     ]
+    ],
+    "uk": [
+     [
+      "Податок на прибуток",
+      "8,25% з перших HK$2 млн, 16,5% понад цю суму; оподатковується прибуток із гонконзького джерела",
+      "17% з оподатковуваного прибутку; на YA 2026 знижка CIT Rebate 50%, ліміт разом із грантом — S$40 000"
+     ],
+     [
+      "Закордонний дохід",
+      "за загальним правилом не оподатковується; для міжнародних груп компаній діє режим FSIE",
+      "податкове резидентство визначається місцем контролю та управління"
+     ],
+     [
+      "Директор",
+      "щонайменше один директор — фізична особа, жити в Гонконзі не обов’язково",
+      "щонайменше один директор, який зазвичай проживає в Сінгапурі (стаття 145 Companies Act 1967)"
+     ],
+     [
+      "Секретар",
+      "обов’язковий: місцевий житель або компанія з місцевим офісом",
+      "призначається протягом 6 місяців, має відповідати вимогам до місцевого резидентства"
+     ],
+     [
+      "Щорічний звіт до реєстру",
+      "NAR1 протягом 42 днів після річниці реєстрації, збір HK$105",
+      "annual return до ACRA через BizFile"
+     ],
+     [
+      "Перелік ЄС від 9 жовтня 2026 року",
+      "у переліку немає",
+      "у переліку немає"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "Hong Kong vs Singapore: corporate tax rates, the territorial principle and FSIE, director and company secretary, annual returns, EU list and how to choose.",
+    "ru": "Гонконг или Сингапур: ставки налога на прибыль, территориальный принцип и FSIE, директор и секретарь, ежегодные отчёты, список ЕС и выбор под задачу.",
+    "uk": "Гонконг чи Сінгапур: ставки податку на прибуток, територіальний принцип і FSIE, директор і секретар, щорічні звіти, перелік ЄС і вибір під завдання."
+   },
+   "choose": {
+    "en": [
+     "Sourcing from factories in China, intermediation in B2B deals with Asia: more often Hong Kong; details on the Hong Kong offshore company page.",
+     "A team or office in Southeast Asia, investors, a regional headquarters: more often Singapore; details on the Singapore company page.",
+     "The founder lives in Europe and sells to EU clients: both countries add costs without a tax effect; compare them with operating jurisdictions in the offshore jurisdictions section.",
+     "Choosing between Singapore and Dubai: see the separate comparison UAE vs Singapore."
+    ],
+    "ru": [
+     "Закупки у фабрик в Китае, посредничество в B2B-сделках с Азией — чаще Гонконг: подробно на странице оффшор в Гонконге.",
+     "Команда или офис в Юго-Восточной Азии, инвесторы, региональная штаб-квартира — чаще Сингапур: подробно на странице компания в Сингапуре.",
+     "Основатель живёт в Европе и продаёт клиентам ЕС — обе страны добавляют расходы без налогового эффекта; сравните с операционными юрисдикциями в разделе оффшорные зоны.",
+     "Выбор между Сингапуром и Дубаем — отдельное сравнение ОАЭ или Сингапур."
+    ],
+    "uk": [
+     "Закупівлі на фабриках у Китаї, посередництво в B2B-угодах з Азією — частіше Гонконг: докладно на сторінці офшор у Гонконзі.",
+     "Команда чи офіс у Південно-Східній Азії, інвестори, регіональна штаб-квартира — частіше Сінгапур: докладно на сторінці компанія в Сінгапурі.",
+     "Засновник живе в Європі й продає клієнтам з ЄС — обидві країни додають витрат без податкового ефекту; порівняйте з операційними юрисдикціями в розділі офшорні зони.",
+     "Вибір між Сінгапуром і Дубаєм — окреме порівняння ОАЕ чи Сінгапур."
+    ]
+   },
+   "choose_title": {
+    "en": "How to choose",
+    "ru": "Как выбрать",
+    "uk": "Як обрати"
+   }
+  },
+  {
+   "id": "uae-vs-singapore",
+   "kind": "table",
+   "source": "comparisons/uae-vs-singapore",
+   "codes": [
+    "AE",
+    "SG"
+   ],
+   "title": {
+    "en": "UAE vs Singapore: Taxes, Free Zones and Company Requirements",
+    "ru": "ОАЭ или Сингапур: налоги, free zone и требования к компании",
+    "uk": "ОАЕ чи Сінгапур: податки, free zone і вимоги до компанії"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/uae-vs-singapore/",
+    "ru": "https://offshora.com/ru/comparisons/uae-vs-singapore/",
+    "uk": "https://offshora.com/uk/comparisons/uae-vs-singapore/"
+   },
+   "header": {
+    "en": [
+     "Parameter",
+     "UAE",
+     "Singapore"
+    ],
+    "ru": [
+     "Параметр",
+     "ОАЭ",
+     "Сингапур"
+    ],
+    "uk": [
+     "Параметр",
+     "ОАЕ",
+     "Сінгапур"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "Tax authority",
+      "Federal Tax Authority (FTA); the law is Federal Decree-Law No. 47 of 2022",
+      "Inland Revenue Authority of Singapore (IRAS)"
+     ],
+     [
+      "Rate",
+      "0% on profit up to AED 375,000, 9% above that (Cabinet Decision No. 116 of 2022)",
+      "17%; for YA 2026, a 50% CIT Rebate, capped together with the grant at S$40,000"
+     ],
+     [
+      "Free zone",
+      "Qualifying Free Zone Person (QFZP): 0% on qualifying income, 9% on the rest",
+      "the standard rate and IRAS incentives apply"
+     ],
+     [
+      "Tax registration",
+      "free zone companies, including QFZPs, register with the FTA and file a return",
+      "tax filings are submitted to IRAS"
+     ],
+     [
+      "Audit",
+      "a QFZP maintains audited financial statements",
+      "an auditor is appointed within 3 months unless the company is exempt"
+     ],
+     [
+      "EU list of October 9, 2026",
+      "not on the list",
+      "not on the list"
+     ]
+    ],
+    "ru": [
+     [
+      "Налоговый орган",
+      "Federal Tax Authority (FTA), закон — Federal Decree-Law № 47 от 2022 года",
+      "Inland Revenue Authority of Singapore (IRAS)"
+     ],
+     [
+      "Ставка",
+      "0% на прибыль до AED 375 000, 9% сверх (Cabinet Decision № 116 от 2022 года)",
+      "17%; на YA 2026 скидка CIT Rebate 50%, лимит вместе с грантом — S$40 000"
+     ],
+     [
+      "Свободная зона",
+      "квалифицированная free zone компания (QFZP): 0% на квалифицированный доход, 9% на остальной",
+      "действуют общая ставка и льготы IRAS"
+     ],
+     [
+      "Регистрация в налоговой",
+      "компании свободных зон, включая QFZP, регистрируются в FTA и подают декларацию",
+      "налоговую отчётность подают в IRAS"
+     ],
+     [
+      "Аудит",
+      "QFZP ведёт аудированную финансовую отчётность",
+      "аудитора назначают в течение 3 месяцев, если компания не освобождена"
+     ],
+     [
+      "Список ЕС от 9 октября 2026 года",
+      "в списке нет",
+      "в списке нет"
+     ]
+    ],
+    "uk": [
+     [
+      "Податковий орган",
+      "Federal Tax Authority (FTA), закон — Federal Decree-Law № 47 від 2022 року",
+      "Inland Revenue Authority of Singapore (IRAS)"
+     ],
+     [
+      "Ставка",
+      "0% на прибуток до AED 375 000, 9% понад цю суму (Cabinet Decision № 116 від 2022 року)",
+      "17%; на YA 2026 знижка CIT Rebate 50%, ліміт разом із грантом — S$40 000"
+     ],
+     [
+      "Вільна економічна зона",
+      "кваліфікована компанія free zone (QFZP): 0% на кваліфікований дохід, 9% на решту",
+      "діють загальна ставка й пільги IRAS"
+     ],
+     [
+      "Реєстрація в податковій",
+      "компанії вільних зон, зокрема QFZP, реєструються у FTA і подають декларацію",
+      "податкову звітність подають до IRAS"
+     ],
+     [
+      "Аудит",
+      "QFZP веде аудовану фінансову звітність",
+      "аудитора призначають протягом 3 місяців, якщо компанію не звільнено"
+     ],
+     [
+      "Перелік ЄС від 9 жовтня 2026 року",
+      "у переліку немає",
+      "у переліку немає"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "UAE vs Singapore: 9% corporate tax and 0% for a qualifying free zone company, QFZP conditions, the 17% rate in Singapore, director, reporting and banking.",
+    "ru": "ОАЭ или Сингапур: корпоративный налог 9% и 0% для квалифицированной free zone компании, условия QFZP, ставка 17% в Сингапуре, директор, отчётность и банк.",
+    "uk": "ОАЕ чи Сінгапур: корпоративний податок 9% і 0% для кваліфікованої компанії free zone, умови QFZP, ставка 17% у Сінгапурі, директор, звітність і банк."
+   },
+   "choose": {
+    "en": [
+     "The team is moving to Dubai and selling services in the region: the UAE, with a license for the activity and a check of the QFZP conditions if income is to be taxed at 0%.",
+     "An office or team in Southeast Asia, investors from the region: Singapore, with a local director and management in the country.",
+     "Trading with China: Hong Kong is worth adding alongside Singapore; see the comparison Hong Kong vs Singapore.",
+     "An IT agency with clients in different countries: see the breakdown in our article on a company for an IT agency."
+    ],
+    "ru": [
+     "Команда переезжает в Дубай и продаёт услуги региону — ОАЭ: лицензия под деятельность, проверка условий QFZP, если доход должен облагаться по ставке 0%.",
+     "Офис или команда в Юго-Восточной Азии, инвесторы из региона — Сингапур с местным директором и управлением в стране.",
+     "Торговля с Китаем — к Сингапуру стоит добавить Гонконг: сравнение Гонконг или Сингапур.",
+     "IT-агентство с клиентами в разных странах — разбор в материале о компании для IT-агентства."
+    ],
+    "uk": [
+     "Команда переїжджає до Дубая і продає послуги регіону — ОАЕ: ліцензія під діяльність, перевірка умов QFZP, якщо дохід має оподатковуватися за ставкою 0%.",
+     "Офіс або команда в Південно-Східній Азії, інвестори з регіону — Сінгапур із місцевим директором і управлінням у країні.",
+     "Торгівля з Китаєм — до Сінгапуру варто додати Гонконг: порівняння Гонконг чи Сінгапур.",
+     "IT-агенція з клієнтами в різних країнах — розбір у матеріалі про компанію для IT-агенції."
+    ]
+   },
+   "choose_title": {
+    "en": "How to choose",
+    "ru": "Как выбрать",
+    "uk": "Як обрати"
+   }
+  },
+  {
+   "id": "offshore-vs-onshore",
+   "kind": "table",
+   "source": "comparisons/offshore-vs-onshore",
+   "codes": [
+    "OFF",
+    "ON"
+   ],
+   "title": {
+    "en": "Offshore vs Onshore Company: Which Is More Cost-Effective",
+    "ru": "Оффшор или обычная иностранная компания: что выгоднее",
+    "uk": "Офшор чи звичайна іноземна компанія: що вигідніше"
+   },
+   "url": {
+    "en": "https://offshora.com/en/comparisons/offshore-vs-onshore/",
+    "ru": "https://offshora.com/ru/comparisons/offshore-vs-onshore/",
+    "uk": "https://offshora.com/uk/comparisons/offshore-vs-onshore/"
+   },
+   "header": {
+    "en": [
+     "Jurisdiction",
+     "Tax on profits",
+     "Type"
+    ],
+    "ru": [
+     "Юрисдикция",
+     "Налог на прибыль",
+     "Тип"
+    ],
+    "uk": [
+     "Юрисдикція",
+     "Податок на прибуток",
+     "Тип"
+    ]
+   },
+   "rows": {
+    "en": [
+     [
+      "BVI",
+      "no corporate income tax or capital gains tax",
+      "offshore"
+     ],
+     [
+      "Cayman Islands",
+      "no income tax, corporate profits tax or capital gains tax",
+      "offshore"
+     ],
+     [
+      "Panama",
+      "tax only on income from Panamanian sources",
+      "territorial"
+     ],
+     [
+      "Hong Kong",
+      "Profits Tax only on Hong Kong-sourced profits: 8.25% on the first HK$2 million, 16.5% above that",
+      "territorial"
+     ],
+     [
+      "Singapore",
+      "17% on chargeable income",
+      "onshore"
+     ],
+     [
+      "United Kingdom (UK Ltd)",
+      "Corporation Tax 25%, 19% for profits up to £50,000, marginal relief up to £250,000",
+      "onshore"
+     ]
+    ],
+    "ru": [
+     [
+      "БВО",
+      "корпоративного подоходного налога и налога на прирост капитала нет",
+      "оффшор"
+     ],
+     [
+      "Каймановы острова",
+      "нет подоходного налога, налога на прибыль компаний и на прирост капитала",
+      "оффшор"
+     ],
+     [
+      "Панама",
+      "налог только с дохода из панамских источников",
+      "территориальный"
+     ],
+     [
+      "Гонконг",
+      "Profits Tax только с прибыли гонконгского источника: 8,25% с первых HK$2 млн, 16,5% сверх",
+      "территориальный"
+     ],
+     [
+      "Сингапур",
+      "17% с налогооблагаемой прибыли",
+      "onshore"
+     ],
+     [
+      "Англия (UK LTD)",
+      "Corporation Tax 25%, 19% при прибыли до £50 000, частичная льгота до £250 000",
+      "onshore"
+     ]
+    ],
+    "uk": [
+     [
+      "БВО",
+      "корпоративного прибуткового податку та податку на приріст капіталу немає",
+      "офшор"
+     ],
+     [
+      "Кайманові Острови",
+      "немає прибуткового податку, податку на прибуток компаній і на приріст капіталу",
+      "офшор"
+     ],
+     [
+      "Панама",
+      "податок лише з доходу з панамських джерел",
+      "територіальний"
+     ],
+     [
+      "Гонконг",
+      "Profits Tax лише з прибутку з гонконзького джерела: 8,25% з перших HK$2 млн, 16,5% понад цю суму",
+      "територіальний"
+     ],
+     [
+      "Сінгапур",
+      "17% з оподатковуваного прибутку",
+      "onshore"
+     ],
+     [
+      "Англія (UK Ltd)",
+      "Corporation Tax 25%, 19% за прибутку до £50 000, часткова пільга до £250 000",
+      "onshore"
+     ]
+    ]
+   },
+   "summary": {
+    "en": "Offshore vs a regular foreign company in the UK, Hong Kong or Singapore: taxes, CFC rules, Pillar Two 15%, economic substance, banking and choice by model.",
+    "ru": "Оффшор или обычная иностранная компания в Англии, Гонконге, Сингапуре: налоги, КИК, Pillar Two 15%, экономическое присутствие, банк и выбор по модели.",
+    "uk": "Офшор чи звичайна іноземна компанія в Англії, Гонконзі, Сінгапурі: податки, КІК, Pillar Two 15%, економічна присутність, банк і вибір за моделлю."
+   },
+   "choose": {
+    "en": [
+     "A freelancer or agency with clients in the EU and the US: more often onshore, a UK Ltd or a US LLC. The comparison is in the article UK Ltd vs US LLC.",
+     "Holding stakes in several countries: an offshore company in the BVI or the Cayman Islands, provided the owner’s CFC rules and withholding tax on dividends are taken into account.",
+     "Online sales with card payments: more often onshore, since PSPs and marketplaces work with a limited list of countries.",
+     "Trade with Asia: Hong Kong or Singapore, provided the source of profits and the management are supported by documents."
+    ],
+    "ru": [
+     "Фрилансер или агентство с клиентами в ЕС и США — чаще onshore: UK LTD или американская LLC. Сравнение — в статье UK LTD или US LLC.",
+     "Холдинг долей в нескольких странах — оффшор вроде БВО или Кайманов, если учтены КИК владельца и налог у источника на дивиденды.",
+     "Онлайн-продажи с карточными платежами — чаще onshore: PSP и маркетплейсы работают с ограниченным списком стран.",
+     "Торговля с Азией — Гонконг или Сингапур, при условии, что источник прибыли и управление подтверждены документами."
+    ],
+    "uk": [
+     "Фрилансер або агенція з клієнтами в ЄС і США — частіше onshore: UK Ltd або американська LLC. Порівняння — у статті UK Ltd чи US LLC.",
+     "Холдинг часток у кількох країнах — офшор на зразок БВО або Кайманових Островів, якщо враховано КІК власника та податок, утримуваний у джерела виплати, з дивідендів.",
+     "Онлайн-продажі з картковими платежами — частіше onshore: PSP і маркетплейси працюють з обмеженим переліком країн.",
+     "Торгівля з Азією — Гонконг або Сінгапур, за умови що джерело прибутку й управління підтверджено документами."
+    ]
+   },
+   "choose_title": {
+    "en": "How to choose by business model",
+    "ru": "Как выбрать по модели бизнеса",
+    "uk": "Як обрати за моделлю бізнесу"
+   }
+  }
+ ]
+}
